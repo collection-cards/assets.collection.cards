@@ -1,0 +1,4 @@
+- Do not submit copyrighted material from commercial TCGs.
+- Only submit assets you created or have the right to redistribute.
+- Submitted pull requests will not be merged publicly.
+- By submitting a PR, you grant permission for private use by the maintainers.
